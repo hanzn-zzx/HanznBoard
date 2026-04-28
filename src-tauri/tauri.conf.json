@@ -1,8 +1,8 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "hanznboard",
+  "productName": "DutyNote",
   "version": "0.1.0",
-  "identifier": "com.hanznboard",
+  "identifier": "com.dutynote",
   "build": {
     "beforeDevCommand": "npm run dev",
     "devUrl": "http://localhost:1420",
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "hanznboard",
+        "title": "Duty Note",
         "width": 800,
         "height": 600
       }

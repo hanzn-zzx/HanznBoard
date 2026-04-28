@@ -2,5 +2,6 @@
 #![cfg_attr(not(debug_assertions), windows_subsystem = "windows")]
 
 fn main() {
-    hanznboard_lib::run()
+    dutynote_lib::run()
+
 }
